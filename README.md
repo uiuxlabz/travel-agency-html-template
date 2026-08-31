@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for travel agencies and tour operators. The design pairs a royal blue + amber palette with bold Archivo headings and clean Karla body text, anchored by a full-bleed crossfading hero with a floating booking card — an identity built for adventure, trust and effortless trip planning.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
